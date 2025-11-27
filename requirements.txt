@@ -16,3 +16,5 @@ kagglehub>=0.2.0
 
 # Utilities
 tqdm>=4.65.0
+
+statsmodels>=0.14.0
