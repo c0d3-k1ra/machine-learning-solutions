@@ -18,3 +18,5 @@ kagglehub>=0.2.0
 tqdm>=4.65.0
 
 statsmodels>=0.14.0
+
+imbalanced-learn>=0.14.0
